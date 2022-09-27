@@ -1,0 +1,7 @@
+/node_modules/
+/.idea/
+/public/images/
+/config/config.json
+/config/.env
+/src/controllers/
+/src/dto/
